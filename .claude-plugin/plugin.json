@@ -1,0 +1,17 @@
+{
+  "name": "sqs",
+  "description": "个人命令与技能（sqs 命名空间）",
+  "author": {
+    "name": "c0503sqs",
+    "url": "https://github.com/c0503sqs"
+  },
+  "homepage": "https://github.com/c0503sqs/sqs-skills",
+  "repository": "https://github.com/c0503sqs/sqs-skills",
+  "license": "MIT",
+  "keywords": [
+    "learn",
+    "qa",
+    "notes",
+    "sqs"
+  ]
+}

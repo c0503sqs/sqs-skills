@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "sqs-skills",
+  "description": "sqs 的个人技能集合，目前包含学习型问答技能 learn。",
+  "owner": {
+    "name": "c0503sqs",
+    "url": "https://github.com/c0503sqs"
+  },
+  "plugins": [
+    {
+      "name": "sqs",
+      "description": "学习型问答：/sqs:learn 是什么|怎么用|原理|讨论 <对象>",
+      "source": ".",
+      "category": "productivity"
+    }
+  ]
+}
