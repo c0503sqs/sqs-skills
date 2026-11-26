@@ -25,19 +25,13 @@ Sceptics remain. A partner at a mid-sized consultancy calls the pilots self-flat
 
 四天工作制再次受到关注
 
-### §1（原文第 1 段）
-
 > A decade ago, the four-day week was widely dismissed as a perk for start-ups with too much cash and too little discipline. The tone has since shifted. A string of pilots run by the Workweek Institute, a Manchester-based research group, suggests that trimming a day does not, as critics once warned, hollow out output.
 
 十年前，四天工作制普遍被当成一种福利——只有钱太多、规矩太少的初创公司才玩得起。如今口风变了。曼彻斯特一家研究机构"工作周研究所"开展的一连串试点显示，每周少上一天，并不会像批评者当年警告的那样把产出掏空。
 
-### §2（原文第 2 段）
-
 > The results are hardly uniform. In some pilots, teams reported that meetings were cut and the pace of work tightened; in others, managers quietly complained that client-facing staff were left holding the bag on Fridays. Much depends, the Institute's director Okafor argues, on whether a firm treats the change as a redesign of how work gets done or as a cosmetic perk tacked onto an unchanged workload.
 
 结果并不整齐。有些试点里，团队反馈会议减少了、工作节奏反而更紧；另一些试点里，经理们私下抱怨，周五的活全压在对接客户的人身上。所长奥卡福认为，关键取决于公司把这件事当成什么：是对工作方式的一次重新设计，还是在工作量一点没减的情况下，额外挂上去的一个好看福利。
-
-### §3（原文第 3 段）
 
 > Sceptics remain. A partner at a mid-sized consultancy calls the pilots self-flattering: the firms that volunteer are already lean, and the staff who opt in are the ones with the most slack. Whether the model scales to a warehouse floor or a hospital ward is a question the pilot literature has largely ducked. Even Okafor concedes that the four-day week remains, for most employers, a hard sell.
 
